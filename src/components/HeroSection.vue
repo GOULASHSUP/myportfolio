@@ -1,29 +1,39 @@
 <template>
-    <div class="bg-background" id="hero">
-  
-      <div class="relative isolate px-6 pt-14 lg:px-8 flex flex-row">
-        <div class="absolute inset-x-0 -top-40 -z-10 transform-gpu overflow-hidden  sm:-top-80" aria-hidden="true">
-        </div>
-        <div class="">
-          <div class="hidden sm:mb-8 sm:flex sm:justify-center">
-            
-          </div>
-          <div class="text-center">
-            <h1 class="text-4xl font-bold tracking-tight text-purple sm:text-6xl">Hi, I am Simon</h1>
-            <p class="mt-6 text-lg leading-8 text-lightgray">Frontend developer and designer</p>
-            <div class="mt-10 flex items-center justify-center gap-x-6">
-              
-            </div>
-          </div>
-          <img src="../assets/profile.jpg" class="rounded-full h-96 flex" alt="profile-picture" >
-        </div>
-
-        <div class="absolute inset-x-0 top-[calc(100%-13rem)] -z-10 transform-gpu overflow-hidden blur-3xl sm:top-[calc(100%-30rem)]" aria-hidden="true">
-        </div>
+  <section class="bg-background">
+    <div
+      class="mx-36 grid max-w-screen-4xl py-8 lg:grid-cols-12 lg:gap-8 lg:py-24 xl:gap-0"
+    >
+      <div class="mr-auto place-self-center lg:col-span-7">
+        <h1
+          class="mb-4 max-w-2xl text-4xl font-bold leading-none md:text-5xl xl:text-6xl text-purple"
+        >
+          Hi, I am Simon
+        </h1>
+        <p
+          class="text-lightgray md:text-lg mb-6 max-w-2xl font-light lg:mb-8 lg:text-xl"
+        >
+          Frontend developer and designer
+        </p>
+        <a
+          href="#about"
+          class="mb-8 inline-flex items-center justify-center rounded-xl border border-darkgray bg-lightgray px-5 py-3 text-center text-base font-medium text-background hover:bg-purple hover:text-lightgray ease-in duration-100"
+        >
+          More about me
+        </a>
+      </div>
+      <div class="lg:col-span-5 justify-center lg:mt-0 lg:flex">
+        <img
+          src="../assets/profile.jpg"
+          class="h-3/4 rounded-full lg:h-3/4"
+          alt=""
+        />
       </div>
     </div>
-  </template>
-  
-  <script setup>
+    <template />
+  </section>
+</template>
 
-  </script>
+
+
+<script setup>
+</script>
