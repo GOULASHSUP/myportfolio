@@ -7,7 +7,11 @@ export default {
   theme: {
     extend: {
       colors:{
-        green: "#000fff",
+        green: "#5EFF99",
+        darkgray: "#707070",
+        lightgray: "#e3e3e3",
+        background: "#232323",
+        purple: "#D337D3",
       }
     },
   },
