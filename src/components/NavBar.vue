@@ -62,7 +62,7 @@
   const navigation = [
     { name: 'Simon.', href: '#', current: true },
     { name: 'Home', href: '#hero', current: false },
-    { name: 'Projects', href: '#project', current: false },
+    { name: 'Projects', href: '#project-section', current: false },
     { name: 'About', href: '#', current: false },
     { name: 'Contact', href: '#', current: false },
   ]
