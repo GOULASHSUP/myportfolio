@@ -1,7 +1,7 @@
 <template>
   <header class="bg-background">
     <nav
-      class="mx-auto flex items-center justify-between py-6 px-36"
+      class="mx-auto flex items-center justify-between py-6 px-12 lg:px-36"
       aria-label="Global"
     >
       <div class="flex lg:flex-1">
@@ -13,7 +13,7 @@
       <div class="flex lg:hidden">
         <button
           type="button"
-          class="-m-2.5 inline-flex items-center justify-center rounded-md p-2.5 text-black"
+          class="-m-2.5 inline-flex items-center justify-center rounded-md p-2.5 text-lightgray"
           @click="mobileMenuOpen = true"
         >
           <span class="sr-only">Open main menu</span>
@@ -51,16 +51,16 @@
     >
       <div class="fixed inset-0 z-10" />
       <DialogPanel
-        class="fixed inset-y-0 right-0 z-10 w-full overflow-y-auto bg-bg02 p-6 sm:max-w-sm sm:ring-1 sm:ring-black/10"
+        class="fixed inset-y-0 right-0 z-10 w-full overflow-y-auto bg-background px-12 py-6 sm:max-w-sm"
       >
         <div class="flex items-center justify-between">
           <a href="#" class="-m-1.5 p-1.5">
             <span class="sr-only">Nora Vitkai's Portfolio</span>
-            <img class="h-10 w-auto" src="../assets/me.svg" alt="" />
+            <h2 class="text-green text-2xl font-bold lg:text-4xl">Simon.</h2>
           </a>
           <button
             type="button"
-            class="-m-2.5 rounded-md p-2.5 text-black"
+            class="-m-2.5 rounded-md p-2.5 text-lightgray"
             @click="mobileMenuOpen = false"
           >
             <span class="sr-only">Close menu</span>
@@ -68,26 +68,26 @@
           </button>
         </div>
         <div class="mt-6 flow-root">
-          <div class="-my-6 divide-y divide-black/10">
+          <div class="-my-6 divide-y divide-lightgray">
             <div class="space-y-1 py-6">
               <a
                 href="#"
-                class="-mx-3 block rounded-lg px-3 py-2 text-sm font-semibold leading-7 text-black hover:text-yellow"
+                class="-mx-3 block rounded-lg px-3 py-2 text-sm font-semibold text-lightgray hover:text-purple"
                 >Home</a
               >
               <a
                 href="#"
-                class="-mx-3 block rounded-lg px-3 py-2 text-sm font-semibold leading-7 text-black hover:text-yellow"
+                class="-mx-3 block rounded-lg px-3 py-2 text-sm font-semibold text-lightgray hover:text-purple"
                 >Projects</a
               >
               <a
                 href="#"
-                class="-mx-3 block rounded-lg px-3 py-2 text-sm font-semibold leading-7 text-black hover:text-yellow"
+                class="-mx-3 block rounded-lg px-3 py-2 text-sm font-semibold text-lightgray hover:text-purple"
                 >About</a
               >
               <a
                 href="#"
-                class="-mx-3 block rounded-lg px-3 py-2 text-sm font-semibold leading-7 text-black hover:text-yellow"
+                class="-mx-3 block rounded-lg px-3 py-2 text-sm font-semibold text-lightgray hover:text-purple"
                 >Contact</a
               >
             </div>
@@ -105,6 +105,3 @@ import { Bars3Icon, XMarkIcon } from "@heroicons/vue/24/outline";
 
 const mobileMenuOpen = ref(false);
 </script>
-
-
-<script></script>
