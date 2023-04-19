@@ -46,12 +46,12 @@
 
       <div class="pb-12"> 
         <div class="flex justify-center">
-          <img src="../assets/bbq-pic.jpg" class="rounded-3xl w-5/6 pb-3" alt="bbq project pic">
+          <img src="../assets/ux.png" class="rounded-3xl w-5/6 pb-3" alt="bbq project pic">
         </div>
          <!--text for 2nd project-->
           <div class="px-12 md:px-24 lg:pl-44 pb-12">
               <h3 class="text-lightgray lg:text-7xl text-4xl pb-5 font-bold">UX project</h3>
-              <p class="text-darkgray text-xl">I worked as a member of a group for an organization, and helped them to create a whole new website.</p>
+              <p class="text-darkgray text-xl">With some of my classmates during a few months we created an Adobe Xd prototype for a mobile remote job application.</p>
             <div class="text-green text-lg hover:font-semibold">
               <a href="#">Read more > </a>
             </div>
@@ -60,12 +60,12 @@
 
       <div class="pb-12"> 
         <div class="flex justify-center">
-          <img src="../assets/ux.png" class="rounded-3xl w-5/6 pb-3" alt="bbq project pic">
+          <img src="../assets/beer.png" class="rounded-3xl w-5/6 pb-3" alt="bbq project pic">
         </div>
          <!--text for 2nd project-->
           <div class="px-12 md:px-24 lg:pl-44 pb-12">
-              <h3 class="text-lightgray lg:text-7xl text-4xl pb-5 font-bold">5th project</h3>
-              <p class="text-darkgray text-xl">I worked as a member of a group for an organization, and helped them to create a whole new website.</p>
+              <h3 class="text-lightgray lg:text-7xl text-4xl pb-5 font-bold">Promo commercial</h3>
+              <p class="text-darkgray text-xl">As a member or a team, we rebranded the city of esbjerg. Our idea was a beer festival in the city.</p>
             <div class="text-green text-lg hover:font-semibold">
               <a href="#">Read more > </a>
             </div>

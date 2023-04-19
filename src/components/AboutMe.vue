@@ -10,7 +10,7 @@
             About
           </h1>
           <p
-            class="flex justify-center lg:justify-start text-green text-4xl mb-6 max-w-2xl font-light lg:mb-8 lg:text-4xl"
+            class="flex justify-center lg:justify-start text-green font-semibold text-4xl mb-6 max-w-2xl font-light lg:mb-8 lg:text-4xl"
           >
             Simon Jobbágy
           </p>
@@ -39,7 +39,7 @@ If you are interested what I did before or in what kind of projects I worked pre
         <div class="text-lightgray lg:w-1/2 lg:pr-36 pr-12 lg:pl-16 pl-12 text-xl">
             
             <p class="pb-5">On this page you can read about some of my previous projects under the projects page, where I talk about my experiences regarding my work.</p>
-            <p class="pb-5 pb-16">For additional information about me you can download my cv by clicking <a href="#">here</a> , or you can watch my video cv below.</p>
+            <p class="pb-5 pb-16">For additional information about me you can download my cv by clicking <a href="#" class="text-purple hover:text-green"> >here </a> , or you can watch my video cv below.</p>
             <div class="aspect-h-9 aspect-w-16">
               <iframe
                 src="https://www.youtube.com/embed/JoUMAnKnnMg"
@@ -56,7 +56,7 @@ If you are interested what I did before or in what kind of projects I worked pre
       >
         <div class="lg:mr-auto flex flex-col lg:col-span-7">
           <p
-            class="flex justify-center lg:justify-start text-green text-4xl lg:pt-16 mb-6 max-w-2xl font-light lg:mb-8 lg:text-4xl"
+            class="flex justify-center lg:justify-start text-green font-semibold text-4xl lg:pt-16 mb-6 max-w-2xl font-light lg:mb-8 lg:text-4xl"
           >
             My skills
           </p>
