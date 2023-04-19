@@ -11,10 +11,11 @@ export default {
         darkgray: "#707070",
         lightgray: "#e3e3e3",
         background: "#232323",
+        background2: "#393939",
         purple: "#D337D3",
       }
     },
   },
-  plugins: [],
+  plugins: [require("@tailwindcss/aspect-ratio")],
 }
 

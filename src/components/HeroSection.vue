@@ -1,7 +1,7 @@
 <template>
-  <section class="bg-background">
+  <section class="bg-background" id="herosection">
     <div
-      class="mx-12 flex flex-col lg:items-center lg:mx-36 lg:grid max-w-screen-4xl py-8 lg:grid-cols-12 lg:gap-8 lg:py-28 xl:gap-0"
+      class="mx-12 flex flex-col lg:items-center lg:mx-64 lg:grid max-w-screen-4xl py-8 lg:grid-cols-12 lg:gap-8 lg:py-28 xl:gap-0"
     >
       <div class="lg:mr-auto flex flex-col lg:col-span-7">
         <h1
@@ -23,7 +23,7 @@
         </a>
       </div>
       </div>
-      <div class="lg:col-span-5 flex justify-center lg:mt-0">
+      <div class="lg:col-span-5 flex lg:justify-end justify-center lg:mt-0">
         <img
           src="../assets/profile.jpg"
           class="h-72 rounded-full lg:h-96"

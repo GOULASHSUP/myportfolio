@@ -1,5 +1,5 @@
 <template>
-  <header class="bg-background">
+  <header class="bg-background2">
     <nav
       class="mx-auto flex items-center justify-between py-6 px-12 lg:px-36"
       aria-label="Global"
@@ -22,22 +22,22 @@
       </div>
       <PopoverGroup class="hidden lg:flex lg:gap-x-20">
         <a
-          href="#"
+          href="#hero-section"
           class="text-lg font-semibold text-lightgray hover:text-purple"
           >Home</a
         >
         <a
-          href="#about"
+          href="#project-section"
           class="text-lg font-semibold text-lightgray hover:text-purple"
           >Projects</a
         >
         <a
-          href="#experience"
+          href="#about-section"
           class="text-lg font-semibold text-lightgray hover:text-purple"
           >About</a
         >
         <a
-          href="#"
+          href="#contact-section"
           class="text-lg font-semibold text-lightgray hover:text-purple"
           >Contact</a
         >
@@ -55,7 +55,7 @@
       >
         <div class="flex items-center justify-between">
           <a href="#" class="-m-1.5 p-1.5">
-            <span class="sr-only">Nora Vitkai's Portfolio</span>
+            <span class="sr-only">Simon's Portfolio</span>
             <h2 class="text-green text-2xl font-bold lg:text-4xl">Simon.</h2>
           </a>
           <button
@@ -71,22 +71,22 @@
           <div class="-my-6 divide-y divide-lightgray">
             <div class="space-y-1 py-6">
               <a
-                href="#"
+                href="#hero-section"
                 class="-mx-3 block rounded-lg px-3 py-2 text-sm font-semibold text-lightgray hover:text-purple"
                 >Home</a
               >
               <a
-                href="#"
+                href="#project-section"
                 class="-mx-3 block rounded-lg px-3 py-2 text-sm font-semibold text-lightgray hover:text-purple"
                 >Projects</a
               >
               <a
-                href="#"
+                href="#about-section"
                 class="-mx-3 block rounded-lg px-3 py-2 text-sm font-semibold text-lightgray hover:text-purple"
                 >About</a
               >
               <a
-                href="#"
+                href="#contact-section"
                 class="-mx-3 block rounded-lg px-3 py-2 text-sm font-semibold text-lightgray hover:text-purple"
                 >Contact</a
               >

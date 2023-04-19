@@ -14,6 +14,7 @@
     "vue": "^3.2.47"
   },
   "devDependencies": {
+    "@tailwindcss/aspect-ratio": "^0.4.2",
     "@vitejs/plugin-vue": "^4.1.0",
     "autoprefixer": "^10.4.14",
     "eslint": "^8.38.0",
