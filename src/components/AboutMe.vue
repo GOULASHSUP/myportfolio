@@ -3,7 +3,7 @@
       <div
         class="mx-12 flex flex-col lg:items-center lg:mx-36 lg:grid max-w-screen-4xl py-8 lg:grid-cols-12 lg:gap-8 lg:py-28 xl:gap-0"
       >
-        <div class="lg:mr-auto flex flex-col lg:col-span-7">
+        <div class="lg:mr-auto flex flex-col lg:col-span-7 lg:justify-center">
           <h1
             class="flex justify-center mb-4 max-w-2xl text-4xl font-bold leading-none md:text-5xl xl:text-7xl text-lightgray"
           >
@@ -39,7 +39,7 @@ If you are interested what I did before or in what kind of projects I worked pre
         <div class="text-lightgray lg:w-1/2 lg:pr-36 pr-24 lg:pl-16 pl-24 text-xl">
             
             <p class="pb-5">On this page you can read about some of my previous projects under the projects page, where I talk about my experiences regarding my work.</p>
-            <p class="pb-5">For additional information about me you can download my cv by clicking <a href="#">here</a> , or you can watch my video cv below.</p>
+            <p class="pb-5 pb-16">For additional information about me you can download my cv by clicking <a href="#">here</a> , or you can watch my video cv below.</p>
             <div class="aspect-h-9 aspect-w-16">
               <iframe
                 src="https://www.youtube.com/embed/JoUMAnKnnMg"
@@ -71,7 +71,7 @@ If you are interested what I did before or in what kind of projects I worked pre
           <p class="pb-5">I learned how to use Vue to make the flow of my website better and easier to follow not only for my self, but also for an outside viewer, who might want to use and change the website. </p>
         </div>
 
-        <div class="flex justify-center items-center w-1/2 hidden lg:block">
+        <div class="lg:flex lg:justify-center lg:items-center lg:w-1/2 hidden lg:block">
           <img src="../assets/html-logos.png" alt="development logos" class="h-72">
         </div>
       </div>
@@ -84,7 +84,7 @@ If you are interested what I did before or in what kind of projects I worked pre
           <p class="pb-5">I also learned about Adobe InDesign and how I can use it to create documentations or reports properly for my projects and for the clients as well. </p>
         </div>
 
-        <div class="flex justify-center items-center w-1/2 hidden lg:block">
+        <div class="lg:flex lg:justify-center lg:items-center lg:w-1/2 hidden lg:block">
           <img src="../assets/logos.png" alt="design logos" class="h-64">
         </div>
       </div>
