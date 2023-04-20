@@ -7,12 +7,16 @@
         <h1
           class="flex justify-center mb-4 max-w-2xl text-4xl font-bold leading-none md:text-5xl xl:text-6xl text-purple"
         >
-          Hi, I am Simon
+          Hi, I am
+        </h1>
+        <h1 
+          class="flex justify-center mb-4 max-w-2xl text-4xl font-bold leading-none md:text-5xl xl:text-6xl text-purple animate-bounce">
+          Simon
         </h1>
         <p
           class="flex justify-center lg:justify-start text-lightgray md:text-lg mb-6 max-w-2xl font-light lg:mb-8 lg:text-xl"
         >
-          > frontend developer and designer
+          frontend developer and designer
         </p>
         <div class="flex justify-center lg:justify-start">
         <a
@@ -27,7 +31,7 @@
         <img
           src="../assets/profile.jpg"
           class="h-72 rounded-full lg:h-96"
-          alt=""
+          alt="profile picture"
         />
       </div>
     </div>
