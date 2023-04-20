@@ -12,7 +12,7 @@
         <p
           class="flex justify-center lg:justify-start text-lightgray md:text-lg mb-6 max-w-2xl font-light lg:mb-8 lg:text-xl"
         >
-          A frontend developer and designer
+          > frontend developer and designer
         </p>
         <div class="flex justify-center lg:justify-start">
         <a

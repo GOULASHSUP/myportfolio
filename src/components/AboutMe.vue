@@ -39,7 +39,7 @@ If you are interested what I did before or in what kind of projects I worked pre
         <div class="text-lightgray lg:w-1/2 lg:pr-36 pr-12 lg:pl-16 pl-12 text-xl">
             
             <p class="pb-5">On this page you can read about some of my previous projects under the projects page, where I talk about my experiences regarding my work.</p>
-            <p class="pb-5 pb-16">For additional information about me you can download my cv by clicking <a href="#" class="text-purple hover:text-green"> >here </a> , or you can watch my video cv below.</p>
+            <p class="pb-5 pb-16">For additional information about me you can download my cv by clicking <a href="#" class="text-purple hover:text-green ease-in duration-150"> >here </a> , or you can watch my video cv below.</p>
             <div class="aspect-h-9 aspect-w-16">
               <iframe
                 src="https://www.youtube.com/embed/JoUMAnKnnMg"

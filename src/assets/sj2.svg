@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 914.12 436.78">
+  <defs>
+    <style>
+      .cls-1 {
+        font-size: 278px;
+      }
+
+      .cls-2 {
+        font-size: 334px;
+      }
+
+      .cls-3 {
+        fill: #85c987;
+        font-family: NewOrder-Bold, 'New Order';
+        font-weight: 700;
+      }
+    </style>
+  </defs>
+  <text class="cls-3" transform="translate(0 289.91)"><tspan class="cls-1" x="0" y="0">&lt;</tspan><tspan class="cls-2" x="150.12" y="0">SJ</tspan><tspan class="cls-1" x="448.05" y="0">&gt;</tspan></text>
+</svg>

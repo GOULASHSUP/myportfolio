@@ -6,9 +6,10 @@ export default {
   ],
   theme: {
     extend: {
+      
       colors:{
         green: "#5EFF99",
-        darkgray: "#707070",
+        darkgray: "#a0a0a0",
         lightgray: "#e3e3e3",
         background: "#232323",
         background2: "#393939",

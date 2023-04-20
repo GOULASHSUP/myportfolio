@@ -23,22 +23,22 @@
       <PopoverGroup class="hidden lg:flex lg:gap-x-20">
         <a
           href="#hero-section"
-          class="text-lg font-semibold text-lightgray hover:text-purple"
+          class="text-lg font-semibold text-lightgray hover:text-purple ease-in duration-150"
           >Home</a
         >
         <a
           href="#project-section"
-          class="text-lg font-semibold text-lightgray hover:text-purple"
+          class="text-lg font-semibold text-lightgray hover:text-purple ease-in duration-150"
           >Projects</a
         >
         <a
           href="#about-section"
-          class="text-lg font-semibold text-lightgray hover:text-purple"
+          class="text-lg font-semibold text-lightgray hover:text-purple ease-in duration-150"
           >About</a
         >
         <a
           href="#contact-section"
-          class="text-lg font-semibold text-lightgray hover:text-purple"
+          class="text-lg font-semibold text-lightgray hover:text-purple ease-in duration-150"
           >Contact</a
         >
       </PopoverGroup>
@@ -71,21 +71,25 @@
           <div class="-my-6 divide-y divide-lightgray">
             <div class="space-y-1 py-6">
               <a
+              @click="mobileMenuOpen = false"
                 href="#hero-section"
                 class="-mx-3 block rounded-lg px-3 py-2 text-sm font-semibold text-lightgray hover:text-purple"
                 >Home</a
               >
               <a
+              @click="mobileMenuOpen = false"
                 href="#project-section"
                 class="-mx-3 block rounded-lg px-3 py-2 text-sm font-semibold text-lightgray hover:text-purple"
                 >Projects</a
               >
               <a
+              @click="mobileMenuOpen = false"
                 href="#about-section"
                 class="-mx-3 block rounded-lg px-3 py-2 text-sm font-semibold text-lightgray hover:text-purple"
                 >About</a
               >
               <a
+              @click="mobileMenuOpen = false"
                 href="#contact-section"
                 class="-mx-3 block rounded-lg px-3 py-2 text-sm font-semibold text-lightgray hover:text-purple"
                 >Contact</a

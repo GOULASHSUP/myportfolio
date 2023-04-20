@@ -12,5 +12,5 @@ import Contact from "./components/Contact.vue";
   <HeroSection />
   <Projects />
   <AboutMe />
-  <Contact />
+  <Contact /> 
 </template>
