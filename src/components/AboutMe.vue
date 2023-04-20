@@ -17,7 +17,7 @@
         </div>
         <div class="lg:col-span-5 flex justify-center lg:mt-0">
           <img
-            src="../assets/profile.jpg"
+            src="../assets/profile-pic-2.png"
             class="h-72 rounded-full lg:h-96"
             alt=""
           />
@@ -31,8 +31,8 @@
             <p class="pb-5">After my high school years I moved to Denmark where studied multimedia design. There I learned how to use programs such as Adobe Indesign, Illustrator and Photoshop to create my own material and pictures for projects that I am involved in. </p>
             <p class="pb-5">I also learned how to use Visual Studio Code, together with Vue to create websites using HTML, CSS and JavaScript. </p>
             <p class="pb-5">So I can create websites using these programs, and I can also create design for projects. 
-If you are interested what I did before or in what kind of projects I worked previously, you can check the Projects menu point on this site.</p>
-<p class="pb-5">I am a hard worker, who enjoys challenges and projects, where I can try out new techniques and gether knowladge.</p>
+                            If you are interested what I did before or in what kind of projects I worked previously, you can check the Projects menu point on this site.</p>
+            <p class="pb-5">I am a hard worker, who enjoys challenges and projects, where I can try out new techniques and gether knowladge.</p>
 
         </div>
 
