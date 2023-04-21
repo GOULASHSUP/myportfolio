@@ -28,7 +28,7 @@
             href="#about-section"
             class="mb-8 max-w-fit inline-flex items-center justify-center rounded-xl border border-darkgray bg-lightgray px-5 py-3 text-center text-base font-medium text-background hover:bg-purple hover:text-lightgray ease-in duration-100"
           >
-            More about me >
+            More about me>
           </a>
         </div>
       </div>

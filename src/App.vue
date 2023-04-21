@@ -5,12 +5,14 @@ import Projects from "./components/Projects.vue";
 import AboutMe from "./components/AboutMe.vue";
 import Contact from "./components/Contact.vue";
 
+
 </script>
 
 <template>
   <NavBar />
   <HeroSection />
-  <Projects />
+  <Projects /> 
   <AboutMe />
   <Contact /> 
+  
 </template>

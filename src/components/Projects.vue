@@ -11,10 +11,10 @@
          <!--text for bbq project-->
           <div class="px-12 md:px-24 lg:pl-44 lg:pr-44 pb-12">
               <h3 class="text-lightgray lg:text-7xl text-4xl pb-5 font-bold">BBQ project</h3>
-              <p class="text-lightgray text-xl">I worked as a member of a group for an organization, and helped them to create a whole new website.</p>
+              <p class="text-lightgray text-xl">I helped an organization to create a whole new website for them.</p>
               <div class="flex flex-col lg:flex-row pt-2 gap-4 lg:gap-6">
                 <p class="text-darkgray lg:w-1/2">
-                  At the end of the first semester, as a member of a four person team we worked for a client who organises an event in 2023 which focuses on bbq in Denmark. We had to do research first than design and coding, and at the end we had to create a report that included information about our design/coding choices plus the whole process of our work.                 </p>
+                  At the end of the first semester, as a member of a four person team we worked for a client who will organize an event in 2023 which focuses on BBQ in Denmark. We had to do research first, then design and coding, and at the end we had to create a report that included information about our design/coding choices plus the whole process of our work.                 </p>
               
                 <p class="text-darkgray lg:w-1/2">
                   We used Visual Studio Code for coding and Adobe Xd for designing, and programs such as Github, OneDrive, Google Drive, Notion and Discord to work remotly, when we couldn't meet in person during the project. At the end of the project we getherd knowladge about design and coding, but we also learned how to work and communicate as a team.               
@@ -50,7 +50,7 @@
          <!--text for travel project-->
           <div class="px-12 md:px-24 lg:pl-44 lg:pr-44 pb-12">
               <h3 class="text-lightgray lg:text-7xl text-4xl pb-5 font-bold">Travel project</h3>
-              <p class="text-lightgray text-xl">With one of my classmates, we created a basic website for a fictional traveling agency.</p>
+              <p class="text-lightgray text-xl">With one of my classmates, we created a website for a fictional traveling agency.</p>
               <div class="flex flex-col lg:flex-row pt-2 gap-4 lg:gap-6">
                 <p class="text-darkgray lg:w-1/2">
                   Me and one of my best friends worked on a website design/layout where we tried to recreate a traveling agency's website. 
@@ -73,7 +73,7 @@
          <!--text for UX project-->
           <div class="px-12 md:px-24 lg:pl-44 lg:pr-44 pb-12">
               <h3 class="text-lightgray lg:text-7xl text-4xl pb-5 font-bold">UX project</h3>
-              <p class="text-lightgray text-xl">With some of my classmates during a few months we created an Adobe Xd prototype for a mobile remote job application.</p>
+              <p class="text-lightgray text-xl">With some of my classmates we created a prototype for a mobile remote job app.</p>
               <div class="flex flex-col lg:flex-row pt-2 gap-4 lg:gap-6">
                 <p class="text-darkgray lg:w-1/2">
                   From the second half of my first semester our class had an ongoing project, where we had to create an Adobe Xd prototype for an app which was similar to LinkedIn, but it was specificly designed for students/people who would like to work abroad or remotely.The main focus during the project was on the research behind the application, so the members of the team and me created journey maps, personas and value maps. 
@@ -93,7 +93,7 @@
          <!--text for promo project-->
           <div class="px-12 md:px-24 lg:pl-44 lg:pr-44 pb-12">
               <h3 class="text-lightgray lg:text-7xl text-4xl pb-5 font-bold">Promo commercial</h3>
-              <p class="text-lightgray text-xl">As a member or a team, we rebranded the city of esbjerg. Our idea was a beer festival in the city.</p>
+              <p class="text-lightgray text-xl">With a team, we rebranded the city of Esbjerg with the idea of a beer festival.</p>
               <div class="flex flex-col lg:flex-row pt-2 gap-4 lg:gap-6">
                 <p class="text-darkgray lg:w-1/2">
                   As a one week project, with a small team we had to create a fictional event, which would take place in the city of Esbjerg in 2023. Our group came up with the idea of a beer festival, which would work together with local pubs and bars, where local residents and tourists from all around the world could try out the different hand crafted beers of Esbjerg.                 </p>
@@ -106,8 +106,10 @@
       </div>
 
 
+
     </div> <!--full-body ends-->
   </section>
+
 </template>
 
 
