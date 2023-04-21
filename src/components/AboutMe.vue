@@ -40,6 +40,7 @@
 
         <div class="text-lightgray lg:w-1/2 lg:pr-36 pr-12 lg:pl-16 pl-12 text-xl">
             
+            <p class="pb-5">I like simple and minimalistic designs and I love to use just the bare minimum of pictures and colors on my pages and projects, but I also like to challenge myself and try out new ways for my own learning or for a client. </p>
             <p class="pb-5">On this page you can read about some of my previous projects under the "Projects" menu where I talk about my experiences regarding my work.</p>
             <p class="pb-5 pb-16">For additional information about me you can download my CV by clicking <a href="https://firebasestorage.googleapis.com/v0/b/portfolio-2023-e95a9.appspot.com/o/simon-cv.pdf?alt=media&token=b1ebde37-48a4-47db-af5f-91ec5ef72e01" class="text-purple hover:text-green ease-in duration-150" target="_blank"> >here </a>  or you can watch my video CV below.</p>
             <div class="aspect-h-9 aspect-w-16">
