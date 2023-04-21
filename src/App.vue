@@ -14,5 +14,4 @@ import Contact from "./components/Contact.vue";
   <Projects /> 
   <AboutMe />
   <Contact /> 
-  
 </template>
