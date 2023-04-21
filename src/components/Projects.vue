@@ -1,4 +1,6 @@
-<template>
+<template><!--
+  projects section
+-->
   <section class="bg-background2" id="project-section">
     <div class=""> <!--full-body begins-->
 
@@ -23,9 +25,9 @@
 
       <div class="pb-12"> 
         <div class="flex justify-center">
-          <img src="../assets/school.png" class="rounded-3xl w-5/6 pb-3" alt="bbq project pic">
+          <img src="../assets/school.png" class="rounded-3xl w-5/6 pb-3" alt="school project picture">
         </div>
-         <!--text for 2nd project-->
+         <!--text for school project-->
           <div class="px-12 md:px-24 lg:pl-44 lg:pr-44 pb-12">
               <h3 class="text-lightgray lg:text-7xl text-4xl pb-5 font-bold">School project</h3>
               <p class="text-lightgray text-xl">I designed and painted a new logo for my primary school in Budapest, Hungary.</p>
@@ -43,9 +45,9 @@
 
       <div class="pb-12"> 
         <div class="flex justify-center">
-          <img src="../assets/travel.png" class="rounded-3xl w-5/6 pb-3" alt="bbq project pic">
+          <img src="../assets/travel.png" class="rounded-3xl w-5/6 pb-3" alt="travel project picture">
         </div>
-         <!--text for 2nd project-->
+         <!--text for travel project-->
           <div class="px-12 md:px-24 lg:pl-44 lg:pr-44 pb-12">
               <h3 class="text-lightgray lg:text-7xl text-4xl pb-5 font-bold">Travel project</h3>
               <p class="text-lightgray text-xl">With one of my classmates, we created a basic website for a fictional traveling agency.</p>
@@ -66,9 +68,9 @@
 
       <div class="pb-12"> 
         <div class="flex justify-center">
-          <img src="../assets/ux.png" class="rounded-3xl w-5/6 pb-3" alt="bbq project pic">
+          <img src="../assets/ux.png" class="rounded-3xl w-5/6 pb-3" alt="UX project picture">
         </div>
-         <!--text for 2nd project-->
+         <!--text for UX project-->
           <div class="px-12 md:px-24 lg:pl-44 lg:pr-44 pb-12">
               <h3 class="text-lightgray lg:text-7xl text-4xl pb-5 font-bold">UX project</h3>
               <p class="text-lightgray text-xl">With some of my classmates during a few months we created an Adobe Xd prototype for a mobile remote job application.</p>
@@ -86,9 +88,9 @@
 
       <div class="pb-12"> 
         <div class="flex justify-center">
-          <img src="../assets/beer.png" class="rounded-3xl w-5/6 pb-3" alt="bbq project pic">
+          <img src="../assets/beer.png" class="rounded-3xl w-5/6 pb-3" alt="promo project picture">
         </div>
-         <!--text for 2nd project-->
+         <!--text for promo project-->
           <div class="px-12 md:px-24 lg:pl-44 lg:pr-44 pb-12">
               <h3 class="text-lightgray lg:text-7xl text-4xl pb-5 font-bold">Promo commercial</h3>
               <p class="text-lightgray text-xl">As a member or a team, we rebranded the city of esbjerg. Our idea was a beer festival in the city.</p>

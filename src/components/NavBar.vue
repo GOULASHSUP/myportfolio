@@ -1,4 +1,6 @@
-<template>
+<template><!--
+  navbar
+-->
   <header class="bg-background2 sticky top-0 z-10">
     <nav
       class="mx-auto flex items-center justify-between py-6 px-12 lg:px-36"
@@ -7,7 +9,7 @@
       <div class="flex lg:flex-1">
         <a href="#" class="-m-1.5 p-1.5">
           <span class="sr-only">Simon's Portfolio</span>
-          <h2 class="text-green text-2xl font-bold lg:text-4xl">Simon></h2>
+          <h2 class="text-green text-2xl font-bold lg:text-4xl">Simon></h2> <!--logo-->
         </a>
       </div>
       <div class="flex lg:hidden">
